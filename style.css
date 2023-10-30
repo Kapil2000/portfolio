@@ -55,9 +55,9 @@ nav {
 }
   
 .logo {
-  /* width: 140px; */
-  letter-spacing: 5px;
-  padding-top: 20px;
+  width: 80px;
+  /* letter-spacing: 5px;
+  padding-top: 20px; */
 }
 .logo span {
   color: #ff4321;
