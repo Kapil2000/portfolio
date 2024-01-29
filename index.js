@@ -15,7 +15,7 @@ const textLoad = () => {
     text.textContent = "Freelancer";
   }, 0);
   setTimeout(() => {
-    text.textContent = "Front-End Developer";
+    text.textContent = "Full Stack Web Developer";
   }, 4000);
   setTimeout(() => {
     text.textContent = "UI/UX Designer";
